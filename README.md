@@ -17,3 +17,6 @@ A simple terraform project to use with `atlantis testdrive`.
 - https://github.com/runatlantis/atlantis/issues/1148, 
 repo config not allowed to set 'workflow' key: server-side config needs 'allowed_overrides: [workflow]' #1148 
 - https://www.runatlantis.io/docs/server-side-repo-config.html
+- https://github.com/runatlantis/atlantis/issues/1439, atlantis apply does not apply my atlantis plan'ed projects. #1439 
+- https://www.env0.com/blog/implement-atlantis-style-terraform-and-terragrunt-workflows-in-env0
+- https://gitter.im/runatlantis/Lobby?at=5f86d9c1aacbfa2248d8c513
